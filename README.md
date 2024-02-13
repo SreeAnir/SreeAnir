@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 👷‍♀️#PHP #LARAVEL  #JAVASCRIPT #RESTAPI #MYSQL #CAKEPHP #CODEIGNITER #YII #WORDPRESS #ZEND #REACT #REACT-NATIVE #FLUTTER
 
 - 🔭 I’m a Senior Software Developer with PHP mainly Laravel.
 - 🌱 I’m currently learning a few other technologies.
