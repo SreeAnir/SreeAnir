@@ -50,7 +50,33 @@ Announcement and notification system for important events, deadlines, and update
 7. Sports Management System: Developed a comprehensive Sports Management System tailored specifically for the UAE Muaythai and Kickboxing Federation (UAEMKFED), encompassing features such as athlete and event management, competition tracking, and result reporting to enhance the overall organization and administration of Muaythai sports activities.
 8. MarketEarth: MarketEarth is an e-commerce platform with seamless Point of Sale (POS) integration, facilitating both online and offline sales. Developed an intuitive online store using WordPress, ensuring a user-friendly interface for customers and efficient management of transactions across various channels.
 9. Education City: Developed EducationCity, a user-friendly, multilingual portal with integrated mini-ERP and mobile apps, offering students a seamless learning experience. The platform facilitates course, venue, and activity bookings, managing a vast user database with millions of bookings to enhance the overall educational journey.
-10. Khebrat:
+
+10.Travel Management System
+Description:
+Developed a comprehensive Travel Management System to streamline the process of planning and booking travel arrangements for users. The system provides a user-friendly interface for booking hotels, flights, managing itineraries, and facilitating combined flight and hotel bookings.
+
+Key Features:
+
+Hotel Booking: Users can search for and book hotel accommodations based on their destination, travel dates, and preferences. The system provides detailed information about available hotels, room types, amenities, and pricing.
+
+Flight Booking: Users can search for and book flights to their desired destinations. The system offers various filters to help users narrow down their search based on factors such as price, airline, and departure time.
+
+Itinerary Management: Users can create and manage their travel itineraries within the system. They can organize flights, hotel bookings, and other travel arrangements, add notes or reminders, and receive notifications about upcoming trips.
+
+Flight + Hotel Bookings: The system allows users to book flight and hotel accommodations together as part of a bundled package. Users can select their desired flights and hotels from available options and complete their bookings in a single transaction.
+
+Technologies Used: AngularJS for front-end development and Smalltalk for back-end logic.
+
+Responsibilities:
+Communication with stakeholders and other end users.
+Developed user interfaces using AngularJS to provide a seamless booking experience for users.
+Implemented php crons to handle data processing  and integration with external APIs.
+Collaborated with team members to design and implement new features, fix bugs, and optimize system performance.
+Conducted testing and debugging to ensure the reliability and functionality of the system.
+Provided documentation and training materials for users and stakeholders.
+Outcome:
+The Travel Management System significantly improved the efficiency and convenience of travel booking processes for users. It offered a user-friendly interface, streamlined booking experience, and comprehensive itinerary management capabilities. The system contributed to increased customer satisfaction and retention, making it a valuable asset for travel companies and users alike.
+
 11. Student Management System:
 12. BSpoty:
 13. Trystango :
@@ -60,7 +86,8 @@ Announcement and notification system for important events, deadlines, and update
 17. PeeredIn : Xenforo Profject
 18. E-commerce app in Flutter
 19. Online service booking app in react-native
-20. 
+20. 10. Khebrat:
+
 .... TO BE UPDATED!
 <!-- - 😄 Pronouns: ... --!>
 
