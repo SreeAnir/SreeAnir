@@ -69,6 +69,7 @@ Technologies Used: AngularJS for front-end development and Smalltalk for back-en
 
 Responsibilities:
 Communication with stakeholders and other end users.
+Data fetching from Galileo booking software.
 Developed user interfaces using AngularJS to provide a seamless booking experience for users.
 Implemented php crons to handle data processing  and integration with external APIs.
 Collaborated with team members to design and implement new features, fix bugs, and optimize system performance.
