@@ -13,33 +13,33 @@
 The Student & Staff Management System is a comprehensive web-based application designed to streamline the management of students and staff within an educational institution. The system aims to automate various administrative tasks, digitalize and montior the whole system.
 User Authentication and Authorization:
 
-      -Secure login system for students, staff, and administrators with role-based access control.
+  -Secure login system for students, staff, and administrators with role-based access control.
    Different levels of access privileges for students, teachers, administrative staff, and super-administrators.
 
-        -Student Management:
+  -Student Management:
    Registration and enrollment of students into various courses and programs.
    Profile management for students with personal information, academic records, attendance, and disciplinary history.
    Generation and management of student IDs, roll numbers, and class schedules.
 
-      -Staff Management:
+  -Staff Management:
    Registration and management of staffs.
    Profile management for staff with personal information, contact details, and employment history.
    manage salary and attendance from Essl
 
-      -Course and Curriculum Management:
+  -Course and Curriculum Management:
    Management of courses, subjects, and curriculum details.
    Assignment of teachers to courses and classes.
    Scheduling of classes, lectures, and examinations.
    
-      -Attendance Tracking:
+  -Attendance Tracking:
    Recording and tracking student and staff attendance for classes via Essl.
    Automated attendance reports and notifications for absenteeism.
 
-      -Grade level Records:
+  -Grade level Records:
    Recording and managing grades for students undergoing training.
    Generation of report cards.
 
-      Communication and Messaging:
+   Communication and Messaging:
    Internal messaging system for communication between students, staff, and administrators.
    Announcement and notification system for important events, deadlines, and updates.
 
