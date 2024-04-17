@@ -83,16 +83,18 @@ Provided documentation and training materials for users and stakeholders.
 Outcome:
 The Travel Management System significantly improved the efficiency and convenience of travel booking processes for users. It offered a user-friendly interface, streamlined booking experience, and comprehensive itinerary management capabilities. The system contributed to increased customer satisfaction and retention, making it a valuable asset for travel companies and users alike.
 
-11. Student Management System:
-12. BSpoty:
-13. Trystango :
-14. Josour :
-15. VoteFrenzy :
-16. FortMyres :
-17. PeeredIn : Xenforo Profject
-18. E-commerce app in Flutter
-19. Online service booking app in react-native
-20. Khebrat:
+11. BSpoty:
+12. Trystango :Developed a travel networking application facilitating users to connect with fellow travelers and coordinate trips globally. Implemented features allowing users to discover like-minded travelers, share upcoming journeys, and collaborate on itinerary planning. Incorporated international compatibility, enabling seamless interaction and trip coordination across borders. Enhanced user engagement by integrating real-time messaging, trip sharing, and collaborative planning tools, fostering a vibrant travel community and enriching the travel experience for users worldwide. 
+13. Josour :
+14. VoteFrenzy :
+15. FortMyres :
+16. PeeredIn : Xenforo Profject
+17. Booking app in Flutter :
+   Designed and developed a booking application tailored for Beauty lounge, streamlining the process of scheduling appointments for various beauty treatments and services. Implemented features for users to easily browse available time slots, select preferred services, and confirm bookings with real-time availability updates. Integrated secure payment options and automated reminders to enhance user experience and optimize salon operations. Contributed to creating a seamless and efficient platform for both customers and salon staff, improving overall booking management and customer satisfaction.
+18. Online service booking app in react-native : 
+Ecommerce app which is available only in italian market.Development tools used were react-native and GraphQL.
+Experienced in developing e-commerce applications for hypermarkets, offering a seamless shopping experience for a wide range of products including groceries, electronics, fashion, and more. Proficient in creating intuitive user interfaces, secure payment gateways, and efficient order management systems to enhance customer satisfaction and drive sales.
+19. Khebrat:
 
 .... TO BE UPDATED!
 <!-- - 😄 Pronouns: ... --!>
