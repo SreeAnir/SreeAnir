@@ -2,7 +2,7 @@
 
 👷‍♀️ Senior Fullstack Developer #PHP #Laravel #CakePHP #CI #Yii #ReactJs #Wordpress #Mysql #PsSql #MsqSql #GraphQLAPis #ReactNative #Flutter.
 
-🔭 I am not bored of coding!
+🔭 Responsible & goes well with the Team. I am not bored of coding!
 
 🌱 I’m currently learning a few other technologies.
 
